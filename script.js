@@ -1,18 +1,21 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/cabeza1.jpg",
-  "../assets/img/cabeza2.jpg",
+  "../assets/img/cabeza1.png",
+  "../assets/img/cabeza2.png",
   "../assets/img/cabeza3.png",
+   "../assets/img/cabeza4.png",
 ];
 const listaTroncos = [
-  "../assets/img/tronco1.jpg",
-  "../assets/img/tronco2.jpg",
-  "../assets/img/tronco3.jpg",
+  "../assets/img/tronco1.png",
+  "../assets/img/tronco2.png",
+  "../assets/img/tronco3.png",
+   "../assets/img/tronco4.png",
 ];
 const listaPatas = [
-  "../assets/img/patas1.jpg",
-  "../assets/img/patas2.jpg",
+  "../assets/img/patas1.png",
+  "../assets/img/patas2.png",
   "../assets/img/patas3.png",
+  "../assets/img/patas4.png",
 ];
 
 // Elementos del DOM

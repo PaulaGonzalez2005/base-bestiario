@@ -6,16 +6,16 @@ const listaCabezas = [
    "../celebridades/assets/img/cabeza4.png",
 ];
 const listaTroncos = [
-  "../assets/img/tronco1.png",
-  "../assets/img/tronco2.png",
-  "../assets/img/tronco3.png",
-   "../assets/img/tronco4.png",
+  "../celebridades/assets/img/tronco1.png",
+  "../celebridades/assets/img/tronco2.png",
+  "../celebridades/assets/img/tronco3.png",
+   "../celebridades/assets/img/tronco4.png",
 ];
 const listaPatas = [
-  "../assets/img/patas1.png",
-  "../assets/img/patas2.png",
-  "../assets/img/patas3.png",
-  "../assets/img/patas4.png",
+  "../celebridades/assets/img/patas1.png",
+  "../celebridades/assets/img/patas2.png",
+  "../celebridades/assets/img/patas3.png",
+  "../celebridades/assets/img/patas4.png",
 ];
 
 // Elementos del DOM
